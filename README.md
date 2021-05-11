@@ -52,7 +52,7 @@ The ```<query>``` part of the command-line should be a ```&```-separated sequenc
 - ```contains=<string>``` which matches lines containing the ```<string>``` (case-sensitive)
 - ```starts=<string>``` which matches lines starting with the ```<string>```
 - ```ends=<string>``` which matches lines ending with the ```<string>```
-- ```not(<some non-not query>)``` which matches lines that do not match the inner query
+- ```not(<some non-not individual query>)``` which matches lines that do not match the inner query
 
 ### Transforms
 The ```<transform>``` part of the command-line should be a ```&```-separated sequence of individual transforms. The individual transforms are:
