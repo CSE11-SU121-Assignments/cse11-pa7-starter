@@ -7,11 +7,6 @@ In this assignment you will put together many of the programming features and te
 
 This program is larger than the ones you’ve written so far for this course, so you should **start early** so you understand the scope. Use the implementation suggestions and milestones to help you get started and work incrementally.
 
-## Collaboration
-Different assignments in this course have different collaboration policies. On this assignment, you cannot share code publicly on Piazza or with anyone other than the course staff. If you need to share code, ask in a private Piazza post or in 1-on-1 hours. Still do ask any public code questions about lecture code, quizzes that are past, or other conceptual questions, just no code from this PA. You can’t get help from anyone but the course staff on this PA.
-
-On this assignment, we **encourage** you to share publicly and with other students what you think the expected output should be on particular examples. For example, you could share a ```java StringSearch ...``` command you tried out, and show the results, and check with other students if they agree on the behavior. This allows you to discuss how the assignment is supposed to work without sharing any code, and you also might want to share examples you found interesting!
-
 Submission checklist:
 
 - [ ] StringSearchMilestone1.java
@@ -19,6 +14,14 @@ Submission checklist:
 - [ ] StringSearchMilestone3.java
 - [ ] StringSearchMilestone4.java
 - [ ] StringSearch.java
+
+In addition to correctness, your code will also be graded on styles this time. Check this [Piazza post](https://piazza.com/class/kmoa76qehn873k?cid=409) and this  [Piazza post](https://piazza.com/class/kmoa76qehn873k?cid=256) for some coding style guidelines.
+
+## Collaboration
+Different assignments in this course have different collaboration policies. On this assignment, you cannot share code publicly on Piazza or with anyone other than the course staff. If you need to share code, ask in a private Piazza post or in 1-on-1 hours. Still do ask any public code questions about lecture code, quizzes that are past, or other conceptual questions, just no code from this PA. You can’t get help from anyone but the course staff on this PA.
+
+On this assignment, we **encourage** you to share publicly and with other students what you think the expected output should be on particular examples. For example, you could share a ```java StringSearch ...``` command you tried out, and show the results, and check with other students if they agree on the behavior. This allows you to discuss how the assignment is supposed to work without sharing any code, and you also might want to share examples you found interesting!
+
 
 ## Resubmission/Late Policy
 - We will not accept this PA late.
