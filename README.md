@@ -75,11 +75,17 @@ Where you see ```<number>``` above, it should always be a positive integer.
 The ```<file>```, ```<query>```, and ```<transform>``` command-line arguments should always be inside double quotes. This ensures that they won’t be interpreted as commands, or parts of commands, by your terminal.
 
 ### Examples
-The file ```poem.txt``` contains the following content:
+The file ```poem.txt``` contains the following content (not a real haiku, but still good for testing purposes :-) ):
 ```
 This is a short file
 It contains text and this is
 Also a haiku
+```
+The file ```haiku.txt``` contains the following content (a haiku made by SP21 student Qui-Shawn Tien Tran):
+```
+Computer Science
+A challenging endeavor
+Keep trying your best
 ```
 The file ```words``` contains a standard dictionary.
 
@@ -110,6 +116,14 @@ Also a haIku
 $ java StringSearch "poem.txt" "greater=3&less=100&not(ends='u')" "replace='i';'I'"
 ThIs Is a short fIle
 It contaIns text and thIs Is
+$ java StringSearch "haiku.txt" "contains='challenging'" "upper"
+A CHALLENGING ENDEAVOR
+$ java StringSearch "haiku.txt" "contains='challenging'" "replace='challenging';'rewarding'&upper"
+A REWARDING ENDEAVOR
+$ java StringSearch "haiku.txt" "ends='best'&greater=10" "last=9"
+your best
+$ java StringSearch "haiku.txt" "contains='en'&not(contains='challenging')" "first=8&upper&lower&upper"
+COMPUTER
 $ java StringSearch "words" "contains='no'&starts='x'&not(contains='xeno')" "lower"
 xanthocyanopsia
 xanthocyanopsy
