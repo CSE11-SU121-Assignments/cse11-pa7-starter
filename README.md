@@ -116,14 +116,17 @@ Also a haIku
 $ java StringSearch "poem.txt" "greater=3&less=100&not(ends='u')" "replace='i';'I'"
 ThIs Is a short fIle
 It contaIns text and thIs Is
+$ java StringSearch "haiku.txt" "contains='ing'"
+A challenging endeavor
+Keep trying your best
 $ java StringSearch "haiku.txt" "contains='challenging'" "upper"
 A CHALLENGING ENDEAVOR
 $ java StringSearch "haiku.txt" "contains='challenging'" "replace='challenging';'rewarding'&upper"
 A REWARDING ENDEAVOR
 $ java StringSearch "haiku.txt" "ends='best'&greater=10" "last=9"
 your best
-$ java StringSearch "haiku.txt" "contains='en'&not(contains='challenging')" "first=8&upper&lower&upper"
-COMPUTER
+$ java StringSearch "haiku.txt" "contains='en'&not(contains='challenging')" "first=8&upper&lower&upper&last=5"
+PUTER
 $ java StringSearch "words" "contains='no'&starts='x'&not(contains='xeno')" "lower"
 xanthocyanopsia
 xanthocyanopsy
