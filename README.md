@@ -155,7 +155,7 @@ Your program should take in the name of the file and a *single* ```contains``` q
 Your program should take in the name of the file and a *single* query of any type, and print all the lines that match that single query. By **single**, we mean that any single query (length, greater, less, contains, starts, ends, not) could be used to test the Milestone3 code, but not a sequence of queries seperated by ```&```.
 
 #### Milestone 4
-Your program should take in the name of the file and a *single* query of any type and a *single* transform of any type, and print all the lines that match that single query, transformed by that single transform.
+Your program should take in the name of the file and a *single* query of any type and a *single* transform of any type, and print all the lines that match that single query, transformed by that single transform. Your program should also handle the cases where no transform is provided and/or no query is provided.
 
 After milestone 4, complete the full task as described above.
 
