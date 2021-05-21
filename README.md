@@ -25,8 +25,8 @@ On this assignment, we **encourage** you to share publicly and with other studen
 
 ## Resubmission/Late Policy
 - We will not accept this PA late.
-- If you did not submit this PA or did poorly (<75%), you can fix your PA and resubmit it to the PA resubsmission assignment in Gradescope to earn a maximum of 75% the points.
-- If you scored higher than 75% on the origianl PA, we may grade the resubmission, but will not change your original grade.
+- If you did not submit this PA or did poorly ~~(<75%)~~, you can fix your PA and resubmit it to the PA resubsmission assignment in Gradescope to earn a maximum of ~~75%~~ 90% the points.
+- If you scored higher than ~~75%~~ 90% on the origianl PA, we may grade the resubmission, but will not change your original grade.
 - The resubmission will be open for 2 weeks after the PA's original due date.
 
 ## Task
