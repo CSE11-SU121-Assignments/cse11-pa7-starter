@@ -15,7 +15,7 @@ Submission checklist:
 - [ ] StringSearchMilestone4.java
 - [ ] StringSearch.java
 
-In addition to correctness, your code will also be graded on styles this time. Check this [Piazza post](https://piazza.com/class/kmoa76qehn873k?cid=409) and this  [Piazza post](https://piazza.com/class/kmoa76qehn873k?cid=256) for some coding style guidelines.
+In addition to correctness, your code will also be graded on styles this time. Check this [Piazza post](https://piazza.com/class/kmoa76qehn873k?cid=409) and this  [Piazza post](https://piazza.com/class/kqa3hv3ygi47ku) for some coding style guidelines.
 
 ## Collaboration
 Different assignments in this course have different collaboration policies. On this assignment, you cannot share code publicly on Piazza or with anyone other than the course staff. If you need to share code, ask in a private Piazza post or in 1-on-1 hours. Still do ask any public code questions about lecture code, quizzes that are past, or other conceptual questions, just no code from this PA. You can’t get help from anyone but the course staff on this PA.
