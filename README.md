@@ -1,6 +1,6 @@
 # CSE-11 Programming Assignment 7
 
-### Due Date: Sunday, August 28, 11:59PM Pacific Time
+### Due Date: Thursday, August 26, 11:59PM Pacific Time
 
 ## Learning Goals
 In this assignment you will put together many of the programming features and techniques you’ve seen so far to build a useful command-line application for text manipulation.
