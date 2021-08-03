@@ -198,9 +198,22 @@ class FileHelper {
 ## Submission
 Submit your 5 code files (4 milestones and final ```StringSearch.java```) to ```pa7``` on Gradescope. There will be an autograder available while the assignment is out, and we will also give you feedback on your code after submission. If your queries and/or transforms worked fine locally but failed on the autograder, this is because the autograder checks for some more interesting cases other than the sample tests provided in the writeup. Try to come up with more thorough test cases when testing locally!
 
+## Coding Style Guidelines for PA7
+
+In PA7, besides the correctness of your code, your coding style will be graded as well. You can find some general style guidelines in this previous Piazza post. In addition, here are some extra points that you should pay attention to when working on PA7:
+
+Follow Java naming conventions: The first letter in a class name should be in uppercase. The first letter in a method name or a variable name should be in lowercase. Names should be in camel case style, meaning that every word in a name should have its first letter capitalized (except for the first word, which depends on whether the name is a class name or not). Some examples are thisIsAnExampleVariable and ThisIsAnExampleClass.
+
+Refactor your code when appropriate: If you notice that several lines of code appear multiple times, then you may want to factor them out into a separate helper method.
+
+Keep your methods short and simple: It is generally not a good idea to make a method perform too many tasks. For example, in PA7, theoretically everything can be done in the main method, but doing this would make your program almost impossible to read and very hard to debug. If you notice that one of your methods is performing multiple unrelated tasks, then you may want to split the tasks into helper methods. For this PA, we have provided some suggestions on how to organize the tasks. You may find these suggestions useful.
+
+If you are not sure if your code is in good style, feel free to come to us and and we can work together to improve your coding style!
+
 ## Extensions
 These are not for credit, but you may find them interesting to try on your own.
 
 1. Add a new transform of your own design.
 2. Add a new query of your own design.
 3. All of the queries above are joined in the style of ```AndQuery``` from the ```ImageQuery``` reading, where they all need to be true to match a line. Extend your implementation to accept both ```&``` and ```|``` as separators between queries, where ```|``` indicates joining queries by **or** rather than **and**. Describe the design and details of how to read in and interpret a mix of ```&``` and ```|``` within a query to a user.
+
