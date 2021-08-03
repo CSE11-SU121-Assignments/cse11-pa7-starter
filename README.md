@@ -1,4 +1,4 @@
-# PA7 - Text Manipulation
+# CSE-11 Programming Assignment 7
 
 ### Due Date: Thursday, August 26, 11:59PM Pacific Time
 
