@@ -15,7 +15,7 @@ Submission checklist:
 - [ ] StringSearchMilestone4.java
 - [ ] StringSearch.java
 
-In addition to correctness, your code will also be graded on styles this time. Check this [Piazza post](https://piazza.com/class/kqa3hv3ygi47ku?cid=152) and this  [Piazza post](https://piazza.com/class/kqa3hv3ygi47ku?cid=117) for some coding style guidelines.
+In addition to correctness, your code will also be graded on styles this time. See below for some coding style guidelines.
 
 ## Collaboration
 Different assignments in this course have different collaboration policies. On this assignment, you cannot share code publicly on Piazza or with anyone other than the course staff. If you need to share code, ask in a private Piazza post or in 1-on-1 hours. Still do ask any public code questions about lecture code, quizzes that are past, or other conceptual questions, just no code from this PA. You can’t get help from anyone but the course staff on this PA.
@@ -30,8 +30,7 @@ On this assignment, we **encourage** you to share publicly and with other studen
 - The resubmission will be open for 2 weeks after the PA's original due date.
 
 ## Coding Style Guidelines for PA7
-
-In PA7, besides the correctness of your code, your coding style will be graded as well. You can find some general style guidelines in this Piazza post. In addition, here are some extra points that you should pay attention to when working on PA7:
+In PA7, besides the correctness of your code, your coding style will be graded as well. You can find some general style guidelines in this [Piazza post](https://piazza.com/class/kqa3hv3ygi47ku?cid=117). In addition, here are some extra points that you should pay attention to when working on PA7:
 
 Follow Java naming conventions: The first letter in a class name should be in uppercase. The first letter in a method name or a variable name should be in lowercase. Names should be in camel case style, meaning that every word in a name should have its first letter capitalized (except for the first word, which depends on whether the name is a class name or not). Some examples are thisIsAnExampleVariable and ThisIsAnExampleClass.
 
