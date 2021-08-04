@@ -30,7 +30,7 @@ On this assignment, we **encourage** you to share publicly and with other studen
 - The resubmission will be open for 2 weeks after the PA's original due date.
 
 ## Coding Style Guidelines for PA7
-In PA7, besides the correctness of your code, your coding style will be graded as well. You can find some general style guidelines in this [Piazza post](https://piazza.com/class/krqy5di740n632). In addition, here are some extra points that you should pay attention to when working on PA7:
+In PA7, besides the correctness of your code, your coding style will be graded as well. You can find some general style guidelines in this [Piazza post](https://piazza.com/class/krqy5di740n632?cid=21). In addition, here are some extra points that you should pay attention to when working on PA7:
 
 Follow Java naming conventions: The first letter in a class name should be in uppercase. The first letter in a method name or a variable name should be in lowercase. Names should be in camel case style, meaning that every word in a name should have its first letter capitalized (except for the first word, which depends on whether the name is a class name or not). Some examples are thisIsAnExampleVariable and ThisIsAnExampleClass.
 
